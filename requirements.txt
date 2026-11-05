@@ -1,0 +1,24 @@
+# Tested with Python 3.12, torch 2.5.1, transformers 4.56.1, accelerate 1.15.0,
+# datasets 3.1.0, sentence-transformers 5.1.0, submodlib 1.1.5.
+
+# Submodular optimization (not on PyPI under this name; install from GitHub)
+submodlib @ git+https://github.com/decile-team/submodlib.git
+
+torch>=2.0
+torchvision>=0.15
+transformers>=4.46
+accelerate>=1.6
+datasets>=2.18
+sentence-transformers>=2.7
+evaluate
+scikit-learn
+scipy
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+pillow
+
+# Optional: experiment tracking (python main.py ... --wandb)
+# wandb

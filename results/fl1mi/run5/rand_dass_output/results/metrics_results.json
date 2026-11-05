@@ -1,0 +1,10 @@
+{
+    "Evaluation Samples": 250,
+    "Accuracy": 0.9,
+    "F1 Score": 0.8837209302325582,
+    "Precision": 0.9313725490196079,
+    "Recall": 0.8407079646017699,
+    "Specificity": 0.948905109489051,
+    "AUC-ROC": 0.9611136231509593,
+    "Average Precision": 0.9597984053834042
+}

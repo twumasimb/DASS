@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data (large / third-party licensed): see data/README.md
+data/raw/
+data/processed/
+CREATED_DATASETS/
+*.arrow
+
+# Experiment outputs produced by running the code
+Experimental_Results/
+example_output/
+dass_output/
+**/model_training/
+wandb/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
