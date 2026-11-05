@@ -82,8 +82,8 @@ Supported functions for stage 1 (`target_selection_method`): `fl`, `gc`, `logdet
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/twumasimb/DASS.git
+cd DASS
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
